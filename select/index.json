@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "DUAL ROZES（feat. Nana Takahashi、DJ Command(Eurobeat Union)）",
+  "base_artist": "SOUND HOLIC、Eurobeat Union",
+  "createdAt": "2026-03-29T14:00:08.874857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DUAL ROZES (feat. Nana Takahashi/DJ Command(Eurobeat Union))",
+      "artist": "SOUND HOLIC",
+      "has_synced": true,
+      "path": "select/01_DUAL_ROZES_(feat._Nana_Takahashi_DJ_Command(Eurobeat_Union))_SOUND_HOLIC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DUAL ROZES (feat. Nana Takahashi/DJ Command(Eurobeat Union))",
+      "artist": "SOUND HOLIC, Eurobeat Union, Nana Takahashi, DJ Command(Eurobeat Union)",
+      "has_synced": true,
+      "path": "select/02_DUAL_ROZES_(feat._Nana_Takahashi_DJ_Command(Eurobeat_Union))_SOUND_HOLIC,_Eurobeat_Union,_Nana_Takahashi,_DJ_Command(Eurobeat_Union).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DUAL ROZES (feat. Nana Takahashi/DJ Command(Eurobeat Union))",
+      "artist": "SOUND HOLIC feat. Eurobeat Union, Nana Takahashi & DJ Command(Eurobeat Union)",
+      "has_synced": false,
+      "path": "select/03_DUAL_ROZES_(feat._Nana_Takahashi_DJ_Command(Eurobeat_Union))_SOUND_HOLIC_feat._Eurobeat_Union,_Nana_Takahashi_&_DJ_Command(Eurobeat_Union).txt"
+    }
+  ]
+}
